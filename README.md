@@ -1,5 +1,9 @@
 # [2023 EY Open Science Data Challenge](https://www.ey.com/pt_br/open-science-challenge)
 
+### - [Planetary Computer API](https://planetarycomputer.developer.azure-api.net)
+
+### - [Planetary Computer HUB](https://pccompute.westeurope.cloudapp.azure.com/compute/hub/spaw)
+
 ## [Level 1 - Crop identification](https://challenge.ey.com/challenges/level-1-crop-identification-ey)
 
 1. Hunger is a global problem. To build tools to tackle hunger, we must start by understanding a single crop at a single location. Rice is a staple food for fou billion people, more than half of the world's populations. It is the livelihood for a fifth of the global population. But both the amount of land available for rice and the yield growth rates are in decline. Enroll in this challenge to build models that can identify the areas where rice is cultivated. The results can then be extrapolated to other locations and even other crops. The team, or individual, placing first will receive: U$ 1,500
